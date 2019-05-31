@@ -4,7 +4,7 @@ import os
 import pathlib
 
 en_json = 'en-US.json'
-cn_json = 'zh-CN.json'
+cn_json = 'zh-TW.json'
 en_path = 'en.lproj/'
 cn_path = 'zh_CN.lproj/'
 dict_json = 'chrome/en_cn_dict.json'

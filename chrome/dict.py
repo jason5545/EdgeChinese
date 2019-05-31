@@ -2,13 +2,13 @@ import json
 import platform
 
 en_json = 'en-US.json'
-cn_json = 'zh-CN.json'
+cn_json = 'zh-TW.json'
 dict_json = 'en_cn_dict.json'
 os = platform.uname()[0].lower()
 
 if os == 'darwin':
     en_json = 'en.lproj/locale.json'
-    cn_json = 'zh_CN.lproj/locale.json'
+    cn_json = 'zh_TW.lproj/locale.json'
 
 def is_chinese(s):
     try:
