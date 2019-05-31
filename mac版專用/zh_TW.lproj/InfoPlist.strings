@@ -1,0 +1,8 @@
+NSLocationUsageDescription = "一旦 Microsoft Edge 取得了使用權限，網站便能請求您向其授予使用權限。 ";
+NSCameraUsageDescription = "一旦 Microsoft Edge 取得了使用權限，網站便能請求您向其授予使用權限。 ";
+CFBundleName = "Microsoft Edge";
+CFBundleDisplayName = "Microsoft Edge";
+CFBundleGetInfoString = "Microsoft Edge 76.0.151.0, 版權所有2019 Microsoft Corporation. 保留擁有權利。 ";
+NSHumanReadableCopyright = "版權所有2019 Microsoft Corporation. 保留擁有權利。 ";
+NSBluetoothPeripheralUsageDescription = "一旦 Microsoft Edge 取得了使用權限，網站便能請求您向其授予使用權限。 ";
+NSMicrophoneUsageDescription = "一旦 Microsoft Edge 取得了使用權限，網站便能請求您向其授予使用權限。 ";

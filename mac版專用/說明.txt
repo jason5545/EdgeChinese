@@ -1,0 +1,10 @@
+將zh_TW.lproj中的InfoPlist.strings中的版本號碼換成對應的版本號碼
+copyright的年份換成對應的年份
+
+以上資訊都可以從
+/Applications/Microsoft Edge Canary.app/Contents/Resources/en.lproj/InfoPlist.strings
+中取得
+
+取代後，將zh_TW.lproj這個資料夾放到
+/Applications/Microsoft Edge Canary.app/Contents/Resources
+這個目錄下面
