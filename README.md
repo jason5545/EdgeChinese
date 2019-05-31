@@ -48,7 +48,7 @@ python3
 
 ---
 
-translate.py會根據詞典en_TW_dict.json自動的把en-US.json翻譯成zh-TW.json。
+translate.py會根據詞典en_cn_dict.json自動的把en-US.json翻譯成zh-TW.json。
 
 因為詞典不會100%全，所以準備了一個手動詞典manual.json，可以手動翻譯不全的部分。
 
