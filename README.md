@@ -40,8 +40,8 @@ python3
     + 同時會執行dict.py並會產生en_cn_dict.json這個詞典檔案
 3. 將Edge中 /Contents/Versions/版本號碼/Microsoft Edge Framework.framework/Versions/A/Resources 下的en.lproj資料夾複製到專案根目錄
 4. 按兩下build.sh得到zh_TW.lproj資料夾
-5. (可選) 可在manual.json中補全一些存在於not_translate.json中的未翻譯的內容
-6. (可選) 再次執行build.sh產生zh_TW.lproj資料夾
+5. (選擇性) 可在manual.json中補全一些存在於not_translate.json中的未翻譯的內容
+6. (選擇性) 再次執行build.sh產生zh_TW.lproj資料夾
 7. 將產生的zh_TW.lproj資料夾放到 /Contents/Versions/版本號碼/Microsoft Edge Framework.framework/Versions/A/Resources 下
 8. (若已經處理過,則無須此操作) 修改 mac版專用/zh_TW.lproj/InfoPlist.strings文件,修改方法見 mac版專用/說明.txt文件
 9. (若已經處理過,則無須此操作) 將修改好的 mac版專用/zh_TW.lproj 資料夾放回到 /Contents/Resources
