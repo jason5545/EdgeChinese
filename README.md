@@ -37,7 +37,7 @@ python3
     + XXXX根據你使用的是chrome還是chromium,可能會不一樣
 2. 進入chrome目錄,使用unpack.sh解包語言包,解包後的json檔案在各自的資料夾下
     + 注意:需要設定sh檔案的打開方式為終端(sh檔案上右鍵->打開方式->其他->選擇終端(要修改啟用為 啟用\:所有應用程式 )->確定)
-    + 同時會執行dict.py並會產生en_TW_dict.json這個詞典檔案
+    + 同時會執行dict.py並會產生en_cn_dict.json這個詞典檔案
 3. 將Edge中 /Contents/Versions/版本號碼/Microsoft Edge Framework.framework/Versions/A/Resources 下的en.lproj資料夾複製到專案根目錄
 4. 按兩下build.sh得到zh_TW.lproj資料夾
 5. (可選) 可在manual.json中補全一些存在於not_translate.json中的未翻譯的內容
@@ -48,7 +48,7 @@ python3
 
 ---
 
-translate.py會根據詞典en_TW_dict.json自動的把en-US.json翻譯成zh-TW.json。
+translate.py會根據詞典en_cn_dict.json自動的把en-US.json翻譯成zh-TW.json。
 
 因為詞典不會100%全，所以準備了一個手動詞典manual.json，可以手動翻譯不全的部分。
 
