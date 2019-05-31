@@ -1,68 +1,66 @@
-# EdgeChinese
-新版edge汉化工具
+# EdgeChineseTW
+新版edge正體中文化工具 參照微軟官方語言資源庫進行製作
 
-# 依赖
-pak_tools.exe (pak_tools \[mac版] ) 可以解包打包pak文件，我写的
+# 依賴
+pak_tools.exe (pak_tools \[mac版] ) 可以解包打包pak檔案，shuax寫的
 
 python3
 
 # 原理
-使用词典，翻译英文到中文。
-
-# 成品
-我会把汉化好的成品打包发布，另外集成了Edge++增强软件，在这里下载。这里仅提供Windows版,Mac版需要自行汉化
-
-https://tools.shuax.com/edge/
+使用詞典，翻譯英文到正體中文。
 
 # 使用
 
-*特别注意，不同版本pak不通用！即使是同一个版本的64位和32位也不通用！所以每个版本都要重新生成*
-*建议使用最新版的chromium中的语言文件(pak)文件*
-*Mac和Windows的语言文件可能不通用*
+*特別注意，不同版本pak不通用！即使是同一個版本的64位元和32位元也不通用！所以每個版本都要重新產生*
+*建議使用最新版的chromium中的語言檔案(pak)檔案*
+*Mac和Windows的語言檔案可能不通用*
 
-## 解释
-为了避免全部手工翻译，我最开始用了chrome金丝雀的资源来制作词典。 
+## 解釋
+為了避免全部手動翻譯，我最開始用了chrome金絲雀的資源來製作詞典。 
 
-##### Windows系统
-1. 将chromium中的Locales下面的en-US.pak和zh-CN.pak复制到chrome目录下,覆盖已有文件
-2. 进入chrome目录，使用unpack.bat解包en-us.pak，zh-CN.pak为en-US.json，zh-CN.json
-    + 同时会运行dict.py并会生成en_cn_dict.json这个词典文件
-3. 将Edge中Locales下面的en-US.pak放到项目根目录    
-4. 运行build.bat得到zh-CN.pak
-5. (可选) 可在manual.json中补全一些存在于not_translate.json中的未翻译的内容
-6. (可选) 再次运行build.bat生成zh-CN.pak
-7. 将生成的zh-CN.pak放回到Locales下面即可得到汉化版
-    + 如果不行就把原始的en-us.pak删掉。
+##### Windows系統
+1. 將chromium中的Locales下面的en-US.pak和zh-TW.pak複製到chrome目錄下,覆蓋已有檔案
+2. 進入chrome目錄，使用unpack.bat解包en-us.pak，zh-TW.pak為en-US.json，zh-TW.json
+    + 同時會執行dict.py並會產生en_cn_dict.json這個詞典檔案
+3. 將Edge中Locales下面的en-US.pak放到專案根目錄    
+4. 執行build.bat得到zh-TW.pak
+5. (選擇性) 可在manual.json中補全一些存在於not_translate.json中的未翻譯的內容
+6. (選擇性) 再次執行build.bat產生zh-TW.pak
+7. 將產生的zh-TW.pak放回到Locales下面即可得到正體中文化版本
+    + 如果不行就把原始的en-us.pak刪掉。
 
-##### Mac系统
+##### Mac系統
 
-*此处测试是macOS X 10.14.4,由于安装了python2和python3,因此sh命令用python3来运行py文件,这点请注意*
-*类似 /Contents/ 的路径省略了一段, 直接在Finder中打开左侧 应用程序 目录,在App上点击鼠标右键->显示包内容即进入到该目录前置目录*
-1. 将chromium中 /Contents/Versions/版本号/XXXX.framework/Versions/A/Resources 下的en.lproj,zh_CN.lproj这两个文件夹复制到chrome目录下,覆盖已有文件
-    + XXXX根据你使用的是chrome还是chromium,可能会不一样
-2. 进入chrome目录,使用unpack.sh解包语言包,解包后的json文件在各自的文件夹下
-    + 注意:需要设置sh文件的打开方式为终端(sh文件上右键->打开方式->其他->选择终端(要修改启用为 启用\:所有应用程序 )->确定)
-    + 同时会运行dict.py并会生成en_cn_dict.json这个词典文件
-3. 将Edge中 /Contents/Versions/版本号/Microsoft Edge Framework.framework/Versions/A/Resources 下的en.lproj文件夹复制到项目根目录
-4. 双击build.sh得到zh_CN.lproj文件夹
-5. (可选) 可在manual.json中补全一些存在于not_translate.json中的未翻译的内容
-6. (可选) 再次运行build.sh生成zh_CN.lproj文件夹
-7. 将生成的zh_CN.lproj文件夹放到 /Contents/Versions/版本号/Microsoft Edge Framework.framework/Versions/A/Resources 下
-8. (若已经处理过,则无须此操作) 修改 mac版专用/zh_CN.lproj/InfoPlist.strings文件,修改方法见 mac版专用/说明.txt文件
-9. (若已经处理过,则无须此操作) 将修改好的 mac版专用/zh_CN.lproj 文件夹放回到 /Contents/Resources
+*此處測試是macOS X 10.14.4,由於安裝了python2和python3,因此sh命令用python3來執行py檔案,這點請注意*
+*類似 /Contents/ 的路徑省略了一段, 直接在Finder中打開左側 應用程式 目錄,在App上按一下滑鼠右鍵->顯示套件內容即進入到該目錄前置目錄*
+1. 將chromium中 /Contents/Versions/版本號碼/XXXX.framework/Versions/A/Resources 下的en.lproj,zh_TW.lproj這兩個資料夾複製到chrome目錄下,覆蓋已有檔案
+    + XXXX根據你使用的是chrome還是chromium,可能會不一樣
+2. 進入chrome目錄,使用unpack.sh解包語言包,解包後的json檔案在各自的資料夾下
+    + 注意:需要設定sh檔案的打開方式為終端(sh檔案上右鍵->打開方式->其他->選擇終端(要修改啟用為 啟用\:所有應用程式 )->確定)
+    + 同時會執行dict.py並會產生en_TW_dict.json這個詞典檔案
+3. 將Edge中 /Contents/Versions/版本號碼/Microsoft Edge Framework.framework/Versions/A/Resources 下的en.lproj資料夾複製到專案根目錄
+4. 按兩下build.sh得到zh_TW.lproj資料夾
+5. (可選) 可在manual.json中補全一些存在於not_translate.json中的未翻譯的內容
+6. (可選) 再次執行build.sh產生zh_TW.lproj資料夾
+7. 將產生的zh_TW.lproj資料夾放到 /Contents/Versions/版本號碼/Microsoft Edge Framework.framework/Versions/A/Resources 下
+8. (若已經處理過,則無須此操作) 修改 mac版專用/zh_TW.lproj/InfoPlist.strings文件,修改方法見 mac版專用/說明.txt文件
+9. (若已經處理過,則無須此操作) 將修改好的 mac版專用/zh_TW.lproj 資料夾放回到 /Contents/Resources
 
 ---
 
-translate.py会根据词典en_cn_dict.json自动的把en-US.json翻译成zh-CN.json。
+translate.py會根據詞典en_TW_dict.json自動的把en-US.json翻譯成zh-TW.json。
 
-因为词典不会100%全，所以准备了一个手动词典manual.json，可以手动翻译不全的部分。
+因為詞典不會100%全，所以準備了一個手動詞典manual.json，可以手動翻譯不全的部分。
 
-经过多次添加以后，词典就会越来越全。
+經過多次修改以後，詞典就會越來越全。
 
-未翻译部分会写入not_translate.json，方便查看翻译有多少缺失。
+未翻譯部分會寫入not_translate.json，方便查看翻譯有多少缺失。
 
-放入最新版edge的en-us.pak(en.lproj/locale.pak)，运行build.bat(build.sh)会执行三个动作。
+放入最新版edge的en-us.pak(en.lproj/locale.pak)，執行build.bat(build.sh)會執行三個動作。
 
-1. 解包en-us.pak(en.lproj/locale.pak)为en-us.json(en.lproj/locale.json)
-2. 调用translate.py把en-us.json(en.lproj/locale.json)汉化为zh-CN.json(zh_CN.lproj/locale.json)
-3. 打包zh-CN.json(zh_CN.lproj/locale.json)成zh-CN.pak(zh_CN.lproj/locale.pak)
+1. 解包en-us.pak(en.lproj/locale.pak)為en-us.json(en.lproj/locale.json)
+2. 調用translate.py把en-us.json(en.lproj/locale.json)正體中文化為zh-TW.json(zh_TW.lproj/locale.json)
+3. 打包zh-TW.json(zh_TW.lproj/locale.json)成zh-TW.pak(zh_TW.lproj/locale.pak)
+
+# 致謝
+[shuax/EdgeChinese](https://github.com/shuax/EdgeChinese)
