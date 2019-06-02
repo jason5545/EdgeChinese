@@ -602,7 +602,7 @@
         },
         {
             "id": 442,
-            "text": "Microsoft Edge 瀏覽器是一款可高速執行網頁和應用程式的網路瀏覽器。它快捷、穩定且易於使用。Microsoft Edge 瀏覽器內建的惡意軟體和網上誘騙防護功能可讓您更安全地瀏覽網頁。"
+            "text": "Microsoft Edge 瀏覽器是一款可高速執行網頁和應用程式的網路瀏覽器。它快捷、穩定且易於使用。Microsoft Edge 瀏覽器內建的惡意軟體和線上誘騙防護功能可讓您更安全地瀏覽網頁。"
         },
         {
             "id": 445,
@@ -686,11 +686,11 @@
         },
         {
             "id": 476,
-            "text": "Microsoft Edge將在下次儲存並填寫此網站的密碼。"
+            "text": "Microsoft Edge 將在下次儲存並填寫此網站的密碼。"
         },
         {
             "id": 478,
-            "text": "Microsoft Edge正在嘗試顯示密碼。請輸入您的Windows密碼以允許此密碼。"
+            "text": "Microsoft Edge 正在嘗試顯示密碼。請輸入您的Windows密碼以允許此密碼。"
         },
         {
             "id": 479,
@@ -802,7 +802,7 @@
         },
         {
             "id": 517,
-            "text": "您需要將Microsoft API金鑰新增到您的應用程式，網站或伺服器。"
+            "text": "您需要將 Microsoft API金鑰新增到您的應用程式，網站或伺服器。"
         },
         {
             "id": 523,
@@ -810,7 +810,7 @@
         },
         {
             "id": 525,
-            "text": "清除所有來自Microsoft Edge的資料（$1）"
+            "text": "清除所有來自Microsoft Edge 的資料（$1）"
         },
         {
             "id": 526,
@@ -878,23 +878,23 @@
         },
         {
             "id": 556,
-            "text": "您確定要讓管理員永久控制您的Microsoft Edge設定檔案嗎？ 透過使用託管帳戶登入，您的Microsoft Edge資料（包括應用程式，我的最愛，歷程記錄，密碼和其他設定）將連結到$1。 您將能夠刪除資料，但無法將其連結到其他帳戶。$2"
+            "text": "您確定要讓管理員永久控制您的Microsoft Edge 設定檔案嗎？ 透過使用託管帳戶登入，您的Microsoft Edge資料（包括應用程式，我的最愛，歷程記錄，密碼和其他設定）將連結到$1。 您將能夠刪除資料，但無法將其連結到其他帳戶。$2"
         },
         {
             "id": 557,
-            "text": "您確定要讓管理員控制您的Microsoft Edge設定檔案嗎？ 透過使用託管帳戶登入，您的Microsoft Edge資料（包括應用程式，我的最愛，歷程記錄，密碼和其他設定）將與$1相關聯。 您將能夠刪除資料，但無法將其與其他帳戶綁定。 要將Microsoft Edge資料分開，可以建立新的設定檔案。$2"
+            "text": "您確定要讓管理員控制您的Microsoft Edge 設定檔案嗎？ 透過使用託管帳戶登入，您的Microsoft Edge資料（包括應用程式，我的最愛，歷程記錄，密碼和其他設定）將與$1相關聯。 您將能夠刪除資料，但無法將其與其他帳戶綁定。 要將 Microsoft Edge資料分開，可以建立新的設定檔案。$2"
         },
         {
             "id": 558,
-            "text": "您的系統管理員已將Microsoft Edge設定檔為開啟另一個瀏覽器以瀏覽$1。"
+            "text": "您的系統管理員已將 Microsoft Edge 設定檔為開啟另一個瀏覽器以瀏覽$1。"
         },
         {
             "id": 559,
-            "text": "您的系統管理員已將Microsoft Edge設定檔為開啟$2以瀏覽$1。"
+            "text": "您的系統管理員已將 Microsoft Edge 設定檔為開啟$2以瀏覽$1。"
         },
         {
             "id": 560,
-            "text": "$1正在使用Microsoft Edge。"
+            "text": "$1正在使用 Microsoft Edge。"
         },
         {
             "id": 561,
@@ -930,11 +930,11 @@
         },
         {
             "id": 578,
-            "text": "Microsoft Edge正在使用您的相機和麥克風。"
+            "text": "Microsoft Edge 正在使用您的相機和麥克風。"
         },
         {
             "id": 579,
-            "text": "Microsoft Edge正在使用您的麥克風。"
+            "text": "Microsoft Edge 正在使用您的麥克風。"
         },
         {
             "id": 580,
@@ -958,7 +958,7 @@
         },
         {
             "id": 590,
-            "text": "訪客可以使用Microsoft Edge而不會留下任何遺漏。"
+            "text": "訪客可以使用 Microsoft Edge 而不會留下任何遺漏。"
         },
         {
             "id": 591,
@@ -974,23 +974,23 @@
         },
         {
             "id": 594,
-            "text": "此延伸模組變更了開啟Microsoft Edge時顯示的頁面。"
+            "text": "此延伸模組變更了開啟 Microsoft Edge 時顯示的頁面。"
         },
         {
             "id": 595,
-            "text": "延伸模組 \"$1\" 已變更開啟Microsoft Edge時顯示的頁面。"
+            "text": "延伸模組 \"$1\" 已變更開啟 Microsoft Edge 時顯示的頁面。"
         },
         {
             "id": 596,
-            "text": "它還控制開啟Microsoft Edge時顯示的頁面。"
+            "text": "它還控制開啟 Microsoft Edge 時顯示的頁面。"
         },
         {
             "id": 597,
-            "text": "它還控制開啟Microsoft Edge或按一下首頁按鈕時顯示的頁面。"
+            "text": "它還控制開啟 Microsoft Edge或按一下首頁按鈕時顯示的頁面。"
         },
         {
             "id": 598,
-            "text": "它還控制開啟Microsoft Edge或搜尋時顯示的頁面。"
+            "text": "它還控制開啟 Microsoft Edge或搜尋時顯示的頁面。"
         },
         {
             "id": 599,
@@ -1034,7 +1034,7 @@
         },
         {
             "id": 609,
-            "text": "透過將您在瀏覽器中輸入的內容傳送到Microsoft伺服器，從Microsoft Edge取得更智能的拼寫檢查。這使您可以使用Bing搜尋使用的相同拼寫檢查技術。"
+            "text": "透過將您在瀏覽器中輸入的內容傳送到Microsoft伺服器，從 Microsoft Edge取得更智能的拼寫檢查。這使您可以使用Bing搜尋使用的相同拼寫檢查技術。"
         },
         {
             "id": 610,
@@ -1050,7 +1050,7 @@
         },
         {
             "id": 614,
-            "text": "Microsoft Edge的新更新已推出，並將在您重新啟動後立即應用程式。"
+            "text": "Microsoft Edge 的新更新已推出，並將在您重新啟動後立即應用程式。"
         },
         {
             "id": 615,
@@ -1082,7 +1082,7 @@
         },
         {
             "id": 625,
-            "text": "更新Microsoft Edge以開始同步。"
+            "text": "更新Microsoft Edge 以開始同步。"
         },
         {
             "id": 626,
@@ -1094,11 +1094,11 @@
         },
         {
             "id": 630,
-            "text": "{SECONDS, plural,\n           =1 {Microsoft Edge將在1秒內重啟}\n           other {Microsoft Edge將在#秒內重啟}}"
+            "text": "{SECONDS, plural,\n           =1 {Microsoft Edge 將在1秒內重啟}\n           other {Microsoft Edge 將在#秒內重啟}}"
         },
         {
             "id": 631,
-            "text": "您現在應該重啟Microsoft Edge。"
+            "text": "您現在應該重啟 Microsoft Edge。"
         },
         {
             "id": 632,
@@ -1106,7 +1106,7 @@
         },
         {
             "id": 635,
-            "text": "Microsoft Edge索引標籤"
+            "text": "Microsoft Edge 索引標籤"
         },
         {
             "id": 654,
@@ -1118,11 +1118,11 @@
         },
         {
             "id": 657,
-            "text": "無處不在Microsoft Edge"
+            "text": "無處不在 Microsoft Edge"
         },
         {
             "id": 658,
-            "text": "使用Microsoft Edge智慧手機進行網頁瀏覽"
+            "text": "使用 Microsoft Edge 智慧手機進行網頁瀏覽"
         },
         {
             "id": 659,
@@ -1130,7 +1130,7 @@
         },
         {
             "id": 667,
-            "text": "前往Microsoft Edge通知設定"
+            "text": "前往 Microsoft Edge 通知設定"
         },
         {
             "id": 668,
@@ -1142,19 +1142,19 @@
         },
         {
             "id": 670,
-            "text": "{0, plural,\n          =1 {在一天內重新啟動Microsoft Edge}\n          other {在#天內重新啟動Microsoft Edge}}"
+            "text": "{0, plural,\n          =1 {在一天內重新啟動 Microsoft Edge}\n          other {在#天內重新啟動 Microsoft Edge}}"
         },
         {
             "id": 671,
-            "text": "{0, plural,\n          =1 {Microsoft Edge將在一小時後重新啟動}\n          other {Microsoft Edge將在#小時後重新啟動}}"
+            "text": "{0, plural,\n          =1 {Microsoft Edge 將在一小時後重新啟動}\n          other {Microsoft Edge 將在#小時後重新啟動}}"
         },
         {
             "id": 672,
-            "text": "{0, plural,\n          =1 {Microsoft Edge將在1分鐘後重新啟動}\n          other {Microsoft Edge將在#分鐘後重新啟動}}"
+            "text": "{0, plural,\n          =1 {Microsoft Edge 將在1分鐘後重新啟動}\n          other {Microsoft Edge 將在#分鐘後重新啟動}}"
         },
         {
             "id": 673,
-            "text": "{0, plural,\n          =0 {Microsoft Edge將立即重新啟動}\n          =1 {Microsoft Edge將在1秒後重新啟動}\n          other {Microsoft Edge將在#秒後重新啟動}}"
+            "text": "{0, plural,\n          =0 {Microsoft Edge將立即重新啟動}\n          =1 {Microsoft Edge 將在1秒後重新啟動}\n          other {Microsoft Edge 將在#秒後重新啟動}}"
         },
         {
             "id": 674,
@@ -1166,7 +1166,7 @@
         },
         {
             "id": 676,
-            "text": "無法開啟Microsoft Edge。請重試。"
+            "text": "無法開啟 Microsoft Edge。請重試。"
         },
         {
             "id": 677,
@@ -1634,7 +1634,7 @@
         },
         {
             "id": 955,
-            "text": "歡迎來到 Microsoft Edge的投射體驗。"
+            "text": "歡迎來到 Microsoft Edge 的投射體驗。"
         },
         {
             "id": 956,
@@ -1914,7 +1914,7 @@
         },
         {
             "id": 1049,
-            "text": "選取的個人資料圖片"
+            "text": "選擇的個人資料圖片"
         },
         {
             "id": 1050,
@@ -1922,7 +1922,7 @@
         },
         {
             "id": 1052,
-            "text": "回到活躍的個人資料"
+            "text": "回到使用中的個人資料"
         },
         {
             "id": 1054,
@@ -1958,7 +1958,7 @@
         },
         {
             "id": 1062,
-            "text": "Microsoft Edge團隊已收到此問題的通知。請稍後再試。錯誤代碼：$"
+            "text": "Microsoft Edge 團隊已收到此問題的通知。請稍後再試。錯誤代碼：$"
         },
         {
             "id": 1063,
@@ -2130,7 +2130,7 @@
         },
         {
             "id": 1109,
-            "text": "氣球"
+            "text": "提示氣球"
         },
         {
             "id": 1110,
@@ -2266,7 +2266,7 @@
         },
         {
             "id": 1202,
-            "text": "要使用Microsoft Edge，請登入"
+            "text": "要使用 Microsoft Edge，請登入"
         },
         {
             "id": 1203,
@@ -2734,7 +2734,7 @@
         },
         {
             "id": 1625,
-            "text": "讓您登出大多數網站。您不會登出 Microsoft 帳戶。"
+            "text": "讓您從大多數網站登出。您不會登出 Microsoft 帳戶。"
         },
         {
             "id": 1626,
@@ -3554,7 +3554,7 @@
         },
         {
             "id": 2255,
-            "text": "不允許網站使用系統專有消息瀏覽 MIDI 裝置"
+            "text": "不允許網站使用系統專有訊息瀏覽 MIDI 裝置"
         },
         {
             "id": 2256,
@@ -3898,15 +3898,15 @@
         },
         {
             "id": 2367,
-            "text": "僅限目前InPrivate 工作階段"
+            "text": "僅限目前的 InPrivate 工作階段"
         },
         {
             "id": 2368,
-            "text": "目前InPrivate 工作階段"
+            "text": "目前的 InPrivate 工作階段"
         },
         {
             "id": 2369,
-            "text": "目前InPrivate 工作階段（$1）"
+            "text": "目前的 InPrivate 工作階段（$1）"
         },
         {
             "id": 2370,
@@ -3922,7 +3922,7 @@
         },
         {
             "id": 2373,
-            "text": "讓Microsoft Edge選取網站播放時的聲音（建議選項）"
+            "text": "讓 Microsoft Edge 選擇網站何時能播放聲音（建議選項）"
         },
         {
             "id": 2374,
@@ -4062,7 +4062,7 @@
         },
         {
             "id": 2419,
-            "text": "微軟帳戶照片"
+            "text": "Microsoft 帳戶照片"
         },
         {
             "id": 2488,
@@ -4362,7 +4362,7 @@
         },
         {
             "id": 2583,
-            "text": "曾經匯入過的相同網站的密碼將會被覆蓋"
+            "text": "曾經匯入過的相同網站的密碼將會被覆寫"
         },
         {
             "id": 2584,
@@ -4414,7 +4414,7 @@
         },
         {
             "id": 2611,
-            "text": "這將永久刪除此裝置中的我的最愛，歷程記錄和密碼等瀏覽資料。但是，之前同步到您的個人資料的任何資料都將與您的Microsoft帳戶保持關聯。"
+            "text": "這將永久刪除此裝置中的我的最愛，歷程記錄和密碼等瀏覽資料。但是，之前同步到您的個人資料的任何資料都將與您的 Microsoft 帳戶保持關聯。"
         },
         {
             "id": 2612,
@@ -5038,7 +5038,7 @@
         },
         {
             "id": 3050,
-            "text": "從 Microsoft Store 以外的來源安裝的延伸模組未經驗證，可能會影響瀏覽器性能。 對於Microsoft驗證的延伸模組，請瀏覽Microsoft Store。"
+            "text": "從 Microsoft Store 以外的來源安裝的延伸模組未經驗證，可能會影響瀏覽器性能。 對於Microsoft驗證的延伸模組，請瀏覽 Microsoft Store。"
         },
         {
             "id": 3051,
@@ -5618,7 +5618,7 @@
         },
         {
             "id": 3250,
-            "text": "安裝或更新鍵盤以在VR中使用Edge"
+            "text": "安裝或更新鍵盤以在VR中使用 Edge"
         },
         {
             "id": 3251,
@@ -5626,11 +5626,11 @@
         },
         {
             "id": 3252,
-            "text": "VR中沒有可用的網站資訊"
+            "text": "VR 中沒有可用的網站資訊"
         },
         {
             "id": 3253,
-            "text": "允許Microsoft Edge錄製音訊？"
+            "text": "允許 Microsoft Edge 錄製音訊？"
         },
         {
             "id": 3256,
@@ -5678,7 +5678,7 @@
         },
         {
             "id": 3276,
-            "text": "$1已經當機了。選取這個氣球重新載入延伸模組。"
+            "text": "$1已經當機了。選取這個提示氣球以重新載入延伸模組。"
         },
         {
             "id": 3277,
@@ -5746,7 +5746,7 @@
         },
         {
             "id": 3296,
-            "text": "開始使用Safari的書籤和歷程記錄。"
+            "text": "開始使用 Safari 的書籤和歷程記錄。"
         },
         {
             "id": 3297,
@@ -5786,7 +5786,7 @@
         },
         {
             "id": 3308,
-            "text": "登入到您的Microsoft帳戶，使用Microsoft Edge Insider Builds在所有已登入的裝置上同步您的瀏覽資料。"
+            "text": "登入到您的 Microsoft 帳戶，使用 Microsoft Edge Insider Builds在所有已登入的裝置上同步您的瀏覽資料。"
         },
         {
             "id": 3310,
@@ -5794,7 +5794,7 @@
         },
         {
             "id": 3311,
-            "text": "使用Microsoft Edge Insider Builds，您的瀏覽資料將在已登入的裝置上同步到$1。"
+            "text": "使用 Microsoft Edge Insider Builds，您的瀏覽資料將在已登入的裝置上同步到$1。"
         },
         {
             "id": 3312,
@@ -5830,7 +5830,7 @@
         },
         {
             "id": 3329,
-            "text": "起始頁面設定檔首選項已變更為'聚焦'"
+            "text": "起始頁面版面配置喜好設定已變更為'聚焦'"
         },
         {
             "id": 3330,
@@ -5910,7 +5910,7 @@
         },
         {
             "id": 3376,
-            "text": "Edge相容性頁面正在建設中。"
+            "text": "Edge 相容性頁面正在建設中。"
         },
         {
             "id": 3377,
@@ -5930,11 +5930,11 @@
         },
         {
             "id": 3381,
-            "text": "使用者代理覆蓋"
+            "text": "覆寫使用者代理"
         },
         {
             "id": 3383,
-            "text": "Edge相容性列表"
+            "text": "Edge 相容性列表"
         },
         {
             "id": 3386,
@@ -6510,7 +6510,7 @@
         },
         {
             "id": 3576,
-            "text": "Microsoft Defender SmartScreen偵測到病毒。"
+            "text": "Microsoft Defender SmartScreen 偵測到病毒。"
         },
         {
             "id": 3578,
@@ -6526,7 +6526,7 @@
         },
         {
             "id": 3582,
-            "text": "Microsoft Defender SmartScreen無法掃描此檔案。"
+            "text": "Microsoft Defender SmartScreen 無法掃描此檔案。"
         },
         {
             "id": 3583,
@@ -6554,11 +6554,11 @@
         },
         {
             "id": 3589,
-            "text": "連線至互聯網"
+            "text": "連線至網際網路"
         },
         {
             "id": 3590,
-            "text": "連線至互聯網再試一次。"
+            "text": "連線至網際網路再試一次。"
         },
         {
             "id": 3591,
@@ -6882,7 +6882,7 @@
         },
         {
             "id": 3717,
-            "text": "開啟包含資料夾"
+            "text": "在資料夾中開啟"
         },
         {
             "id": 3718,
@@ -7802,11 +7802,11 @@
         },
         {
             "id": 4169,
-            "text": "從Microsoft Edge刪除\"$1\"？"
+            "text": "從 Microsoft Edge 刪除\"$1\"？"
         },
         {
             "id": 4170,
-            "text": "\"$1\" 想從Microsoft Edge中刪除 \"$2\"。"
+            "text": "\"$1\" 想從 Microsoft Edge 中刪除 \"$2\"。"
         },
         {
             "id": 4171,
@@ -7834,7 +7834,7 @@
         },
         {
             "id": 4177,
-            "text": "您電腦上的另一個程式新增了一個延伸模組，可能會改變Microsoft Edge的工作方式。\n\n\n$1"
+            "text": "您電腦上的另一個程式新增了一個延伸模組，可能會改變Microsoft Edge 的工作方式。\n\n\n$1"
         },
         {
             "id": 4178,
@@ -7926,7 +7926,7 @@
         },
         {
             "id": 4203,
-            "text": "在網上商店中開啟"
+            "text": "在線上商店中開啟"
         },
         {
             "id": 4204,
@@ -7962,7 +7962,7 @@
         },
         {
             "id": 4214,
-            "text": "向藍牙裝置傳送和接收消息。"
+            "text": "向藍牙裝置傳送和接收訊息。"
         },
         {
             "id": 4215,
@@ -8642,7 +8642,7 @@
         },
         {
             "id": 4411,
-            "text": "您電腦上的另一個程式新增了一個延伸模組，可能會改變Microsoft Edge的工作方式。"
+            "text": "您電腦上的另一個程式新增了一個延伸模組，可能會改變Microsoft Edge 的工作方式。"
         },
         {
             "id": 4412,
@@ -8734,7 +8734,7 @@
         },
         {
             "id": 4437,
-            "text": "延伸模組 \"$1\" 已經控制了您的代理設定，這意味著它可以改變，破壞或竊聽您在網上做的任何事情。如果您不確定為什麼會發生這種改變，您可能不會想要它。"
+            "text": "延伸模組 \"$1\" 已經控制了您的代理設定，這意味著它可以改變，破壞或竊聽您在線上做的任何事情。如果您不確定為什麼會發生這種改變，您可能不會想要它。"
         },
         {
             "id": 4438,
@@ -9058,7 +9058,7 @@
         },
         {
             "id": 4544,
-            "text": "嘗試重新啟動Microsoft Edge。"
+            "text": "嘗試重新啟動 Microsoft Edge。"
         },
         {
             "id": 4546,
@@ -9626,7 +9626,7 @@
         },
         {
             "id": 4758,
-            "text": "從Microsoft Edge匯出密碼"
+            "text": "從 Microsoft Edge匯出密碼"
         },
         {
             "id": 4766,
@@ -10186,19 +10186,19 @@
         },
         {
             "id": 4973,
-            "text": "$1正在共用Microsoft Edge索引標籤。"
+            "text": "$1正在共用Microsoft Edge 索引標籤。"
         },
         {
             "id": 4974,
-            "text": "$1正在以$2共用Microsoft Edge索引標籤。"
+            "text": "$1正在以$2共用Microsoft Edge 索引標籤。"
         },
         {
             "id": 4975,
-            "text": "$1正在共用Microsoft Edge索引標籤和音訊。"
+            "text": "$1正在共用Microsoft Edge 索引標籤和音訊。"
         },
         {
             "id": 4976,
-            "text": "$1與$2共用Microsoft Edge索引標籤和音訊。"
+            "text": "$1與$2共用Microsoft Edge 索引標籤和音訊。"
         },
         {
             "id": 4977,
@@ -10310,7 +10310,7 @@
         },
         {
             "id": 5026,
-            "text": "$1想要將Microsoft Edge設定回覆為原始預設設定。這將重置您的首頁，新索引標籤和搜尋引擎，並停用您的延伸模組並取消釘選所有索引標籤。它還將清除其他臨時和快取資料，例如Cookie，內容和網站資料。"
+            "text": "$1想要將 Microsoft Edge 設定回覆為原始預設設定。這將重置您的首頁，新索引標籤和搜尋引擎，並停用您的延伸模組並取消釘選所有索引標籤。它還將清除其他臨時和快取資料，例如Cookie，內容和網站資料。"
         },
         {
             "id": 5027,
@@ -10614,7 +10614,7 @@
         },
         {
             "id": 5162,
-            "text": "在網上商店中檢視"
+            "text": "在線上商店中檢視"
         },
         {
             "id": 5163,
@@ -11178,7 +11178,7 @@
         },
         {
             "id": 5543,
-            "text": "微軟帳戶"
+            "text": "Microsoft 帳戶"
         },
         {
             "id": 5544,
@@ -11578,11 +11578,11 @@
         },
         {
             "id": 5712,
-            "text": "登入Microsoft Edge以檢視您的裝置"
+            "text": "登入Microsoft Edge 以檢視您的裝置"
         },
         {
             "id": 5713,
-            "text": "登入Microsoft Edge以註冊新裝置"
+            "text": "登入Microsoft Edge 以註冊新裝置"
         },
         {
             "id": 5715,
@@ -11954,11 +11954,11 @@
         },
         {
             "id": 5851,
-            "text": "使用您的Microsoft帳戶登入Microsoft Edge，以取得您所有裝置上的我的最愛，歷程記錄，密碼和其他內容。"
+            "text": "使用您的 Microsoft 帳戶登入Microsoft Edge，以取得您所有裝置上的我的最愛，歷程記錄，密碼和其他內容。"
         },
         {
             "id": 5875,
-            "text": "Microsoft Edge正在由自動化測試軟體控制。"
+            "text": "Microsoft Edge 正在由自動化測試軟體控制。"
         },
         {
             "id": 5876,
@@ -12378,7 +12378,7 @@
         },
         {
             "id": 15104,
-            "text": "不要讓這個頁面建立更多的消息"
+            "text": "不要讓這個頁面建立更多的訊息"
         },
         {
             "id": 15105,
@@ -12458,7 +12458,7 @@
         },
         {
             "id": 15148,
-            "text": "Microsoft Edge將在下次儲存並填寫此卡的資訊。"
+            "text": "Microsoft Edge 將在下次儲存並填寫此卡的資訊。"
         },
         {
             "id": 15149,
@@ -12466,7 +12466,7 @@
         },
         {
             "id": 15150,
-            "text": "此名稱來自您的Microsoft帳戶"
+            "text": "此名稱來自您的 Microsoft 帳戶"
         },
         {
             "id": 15153,
@@ -12522,15 +12522,15 @@
         },
         {
             "id": 15215,
-            "text": "從Microsoft Edge中刪除此建議？"
+            "text": "從 Microsoft Edge 中刪除此建議？"
         },
         {
             "id": 15216,
-            "text": "從Microsoft Edge刪除信用卡？"
+            "text": "從 Microsoft Edge 刪除信用卡？"
         },
         {
             "id": 15217,
-            "text": "從Microsoft Edge刪除地址？"
+            "text": "從 Microsoft Edge 刪除地址？"
         },
         {
             "id": 15218,
@@ -12810,7 +12810,7 @@
         },
         {
             "id": 15307,
-            "text": "這樣做會讓您離開大多數網站。"
+            "text": "這樣做會讓您從大多數網站登出。"
         },
         {
             "id": 15308,
@@ -12818,7 +12818,7 @@
         },
         {
             "id": 15309,
-            "text": "{COUNT, plural,\n      =0 {None}\n      =1 {來自 1 網站. 讓您離開大多數網站。}\n      other {來自 # 網站. 讓您離開大多數網站。}}"
+            "text": "{COUNT, plural,\n      =0 {None}\n      =1 {來自 1 網站. 讓您從大多數網站登出。}\n      other {來自 # 網站. 讓您從大多數網站登出。}}"
         },
         {
             "id": 15310,
@@ -12990,7 +12990,7 @@
         },
         {
             "id": 15389,
-            "text": "嗯... 您的網路連線被阻斷了"
+            "text": "嗯... 您的網路連線被封鎖了"
         },
         {
             "id": 15390,
@@ -13218,7 +13218,7 @@
         },
         {
             "id": 15453,
-            "text": "在網上搜尋<a jsvalues=\"href:searchUrl;.jstdata:$this\" onclick=\"linkClicked(this.jstdata)\" jscontent=\"searchTerms\" id=\"search-link\"></a>"
+            "text": "在線上搜尋<a jsvalues=\"href:searchUrl;.jstdata:$this\" onclick=\"linkClicked(this.jstdata)\" jscontent=\"searchTerms\" id=\"search-link\"></a>"
         },
         {
             "id": 15454,
@@ -13330,11 +13330,11 @@
         },
         {
             "id": 15527,
-            "text": "重啟您的電腦"
+            "text": "重新啟動您的電腦"
         },
         {
             "id": 15535,
-            "text": "當您InPrivate 瀏覽時，Microsoft Edge將在您關閉所有InPrivate 索引標籤後刪除瀏覽資訊。使用此裝置的其他人將無法看到您的瀏覽活動，您的學校，工作場所和互聯網服務提供者可能仍然可以。<a target=\"_blank\" href=\"$1\">隱私權聲明</a>"
+            "text": "當您InPrivate 瀏覽時，Microsoft Edge 將在您關閉所有InPrivate 索引標籤後刪除瀏覽資訊。使用此裝置的其他人將無法看到您的瀏覽活動，您的學校，工作場所和網際網路服務提供者可能仍然可以。<a target=\"_blank\" href=\"$1\">隱私權聲明</a>"
         },
         {
             "id": 15536,
@@ -13438,7 +13438,7 @@
         },
         {
             "id": 15589,
-            "text": "開啟新的 Microsoft Edge InPrivate 視窗"
+            "text": "開啟新 Microsoft Edge InPrivate 視窗"
         },
         {
             "id": 15590,
@@ -13786,15 +13786,15 @@
         },
         {
             "id": 15727,
-            "text": "您可能會失去對Microsoft帳戶的存取權限或遭遇身份盜用。Microsoft Edge建議您立即變更密碼。"
+            "text": "您可能會失去對Microsoft 帳戶的存取權限或遭遇身份盜用。Microsoft Edge建議您立即變更密碼。"
         },
         {
             "id": 15728,
-            "text": "Microsoft Edge可以說明您保護您的Microsoft帳戶並變更密碼。"
+            "text": "Microsoft Edge可以說明您保護您的 Microsoft 帳戶並變更密碼。"
         },
         {
             "id": 15729,
-            "text": "Microsoft可以說明您保護您的Microsoft帳戶並變更密碼。這將通知Microsoft有關此網站的資訊。"
+            "text": "Microsoft可以說明您保護您的 Microsoft 帳戶並變更密碼。這將通知Microsoft有關此網站的資訊。"
         },
         {
             "id": 15730,
@@ -15022,7 +15022,7 @@
         },
         {
             "id": 16333,
-            "text": "<p>如果您嘗試瀏覽某個網站但未開啟，請按照以下問題排查步驟進行操作：</p> \n <ol> \n <li>檢查網址是否存在拼寫錯誤。</li> \n <li>確保您的互聯網連線正常。</li> \n <li>聯繫網站所有者。</li> \n </ol>"
+            "text": "<p>如果您嘗試瀏覽某個網站但未開啟，請按照以下問題排查步驟進行操作：</p> \n <ol> \n <li>檢查網址是否存在拼寫錯誤。</li> \n <li>確保您的網際網路連線正常。</li> \n <li>聯繫網站所有者。</li> \n </ol>"
         },
         {
             "id": 16334,
@@ -15042,7 +15042,7 @@
         },
         {
             "id": 16338,
-            "text": "<h4>步驟1：登入門戶網站</h4>\n <p>在咖啡館或機場等地方的Wi-Fi網路需要您登入。要檢視登入頁面，請瀏覽使用的頁面<code>http://</code>。</p>\n <ol>\n <li>前往以<code>http://</code>開頭的任何網站，例如<a href=\"http://example.com\" target=\"_blank\">http://example.com </a>。</li>\n <li>在開啟的登入頁面上，登入使用互聯網。</li>\n </ol>\n <h4>步驟2：以InPrivate 模式開啟頁面（僅限電腦）</h4>\n <p>如果頁面開啟，則副檔案名為要正常工作。要修正錯誤，請關閉延伸模組。</p>\n <h4>步驟3：更新作業系統</h4>\n <p>確保您的裝置是最新的。</p>\n <h4>步驟4：暫時關閉防毒軟體</h4>\n <p>如果您的防毒軟體提供了“HTTPS保護”或“HTTPS”您將看到此錯誤掃描。\"防毒軟體封鎖Microsoft Edge提供安全保護。</p>\n <p>要解決此問題，請關閉 防毒軟體。如果在關閉軟體後頁面正常工作，請在使用安全網站時關閉此軟體。</p>\n <p>請記住在完成後重新開啟防毒程式。</p>\n < h4>第5步：取得額外説明</h4>\n <p>如果您仍然看到錯誤，請與網站所有者聯繫。</p>"
+            "text": "<h4>步驟1：登入門戶網站</h4>\n <p>在咖啡館或機場等地方的Wi-Fi網路需要您登入。要檢視登入頁面，請瀏覽使用的頁面<code>http://</code>。</p>\n <ol>\n <li>前往以<code>http://</code>開頭的任何網站，例如<a href=\"http://example.com\" target=\"_blank\">http://example.com </a>。</li>\n <li>在開啟的登入頁面上，登入使用網際網路。</li>\n </ol>\n <h4>步驟2：以InPrivate 模式開啟頁面（僅限電腦）</h4>\n <p>如果頁面開啟，則副檔案名為要正常工作。要修正錯誤，請關閉延伸模組。</p>\n <h4>步驟3：更新作業系統</h4>\n <p>確保您的裝置是最新的。</p>\n <h4>步驟4：暫時關閉防毒軟體</h4>\n <p>如果您的防毒軟體提供了“HTTPS保護”或“HTTPS”您將看到此錯誤掃描。\"防毒軟體封鎖Microsoft Edge提供安全保護。</p>\n <p>要解決此問題，請關閉 防毒軟體。如果在關閉軟體後頁面正常工作，請在使用安全網站時關閉此軟體。</p>\n <p>請記住在完成後重新開啟防毒程式。</p>\n < h4>第5步：取得額外説明</h4>\n <p>如果您仍然看到錯誤，請與網站所有者聯繫。</p>"
         },
         {
             "id": 16339,
@@ -15490,7 +15490,7 @@
         },
         {
             "id": 16476,
-            "text": "您已經擁有使用不同版本的Microsoft帳戶密碼加密的資料。請在下面輸入。"
+            "text": "您已經擁有使用不同版本的Microsoft 帳戶密碼加密的資料。請在下面輸入。"
         },
         {
             "id": 16481,
@@ -16450,7 +16450,7 @@
         },
         {
             "id": 24781,
-            "text": "嗯...無法安裝套裝軟體，因為實用程式進程當機了。請嘗試重新啟動Microsoft Edge並重試。"
+            "text": "嗯...無法安裝套裝軟體，因為實用程式進程當機了。請嘗試重新啟動 Microsoft Edge並重試。"
         },
         {
             "id": 24782,
