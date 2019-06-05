@@ -3,7 +3,6 @@
     "New Tab",
     "Edit favorite for this page (Ctrl+D)",
     "{1, plural,\n            =1 {{0} and 1 more page}\n            other {{0} and # more pages}}",
-    "You are in control of your privacy. We use data collected to improve Microsoft products and features. Change these settings here or manage your data in the $1. $2",
     "Chromium can recognize images and text in an image by sending page images to Google servers, allowing you to better understand page content.",
     "If an image is missing a description, Chromium will try to provide a description for you. Images are scanned by Google.",
     "You need to restart Microsoft Edge to apply this update",

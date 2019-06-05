@@ -1825,5 +1825,6 @@
     "This policy is ignored because another policy from the same policy group has a higher priority.":"此政策被忽略，因為來自同一政策組的另一項政策具有更高的優先順序。",
 	"Microsoft privacy dashboard":"Microsoft 帳戶隱私權設定",
 	"Help improve Microsoft services and products":"協助改進 Microsoft 的服務和產品",
+	"You are in control of your privacy. We use data collected to improve Microsoft products and features. Change these settings here or manage your data in the $1. $2":"您的隱私由您掌控。我們使用收集的資料來改進 Microsoft 產品和功能。在此處變更這些設定或在$1管理您的資料。$2 ",
     "shuax": "made by shuax"
 }
