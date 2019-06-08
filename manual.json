@@ -1737,7 +1737,7 @@
     "Manage your apps":"管理您的應用程式",
     "Added by your organization":"由您的組織新增",
     "Customize your New Tab page":"自訂新索引標籤",
-    "Just the basics - search and quick links":"只是基礎知識 - 搜尋和快速連結",
+    "Just the basics - search and quick links":"基本 - 搜尋和快速連結",
     "Search, quick links, and a background picture to brighten up your day":"搜尋，快速連結和背景圖片，以照亮您的一天",
     "Informative":"資訊化",
     "Search, and catch up on the news and weather":"搜尋，瞭解新聞和天氣",
@@ -1799,7 +1799,7 @@
 
     "P&aste as plain text": "貼上為純文字(&A)",
     "Pa&ste and go to $1": "貼上並前往(&S) $1",
-    "Pa&ste and search for “$1”": "貼上並搜尋(&S)“$1”",
+    "Pa&ste and search for “$1”": "貼上並搜尋(&S) “$1”",
     "S&how URL": "顯示網址(&H)",
     "Close &other tabs": "關閉其他索引標籤(&O)",
     "Close &tabs to the right": "關閉右側索引標籤(&T)",
@@ -1826,5 +1826,9 @@
 	"Microsoft privacy dashboard":"Microsoft 帳戶隱私權設定",
 	"Help improve Microsoft services and products":"協助改進 Microsoft 的服務和產品",
 	"You are in control of your privacy. We use data collected to improve Microsoft products and features. Change these settings here or manage your data in the $1. $2":"您的隱私由您掌控。我們使用收集的資料來改進 Microsoft 產品和功能。在此處變更這些設定或在$1管理您的資料。$2 ",
-    "shuax": "made by shuax"
+    "New tab page":"新增索引標籤頁",
+	"Choose your layout":"選擇您的版面配置",
+	"This will change the content and refresh the new tab page.":"這將變更內容並重新整理新增索引標籤頁。",
+
+	"shuax": "made by shuax"
 }
